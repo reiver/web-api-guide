@@ -49,3 +49,33 @@ I actually learned more on my own by reading (physical) books, reading (physical
 
 Eventually I graduated and had a career as a computer programmer.
 (Although my career was non-typical. And I did a lot of things that computer programmers typically don't do.)
+
+## API
+
+“API” is an initialization — it is short for either **“application programming interface”** or **“application programmer interface”** depending on who you ask.
+
+Nowadays, at the time I'm writing this, if you ask programmers:
+> what is an “API” is?
+
+I think many (maybe most) of them will just think of HTTP or HTTPS based APIs — i.e., Web-based APIs. I.e., things such as:
+
+> `GET https://api.example.com/v1/toys`
+> 
+> `DELETE https://api.example.com/v1/toys/{id}`
+> 
+> `GET https://api.example.com/v1/toys/{id}`
+> 
+> `PATCH https://api.example.com/v1/toys/{id}`
+> 
+> `PUT https://api.example.com/v1/toys/{id}`
+
+The sense I have right now is that — if the programmer is born in the 1990s or later, they are likely to think “API” just means HTTP or HTTPS based APIs — i.e., Web-based APIs
+
+If you ask a programmer born before that they likely think of something different than that!
+Yes, they would include Web-based APIs as APIs.
+But they would also include other things as APIs too — such as libraries such as OpenGL, a Java programming language's class, a Go programming language's package, the Logo programming language's turtle graphics, Borland's Object Windows Library (OWL) for the C++ programming language, the JavaScript programming language's WebRTC, PHP programming language's ereg, etc.
+
+**Remember — APIs existed _before_ HTTP, HTTPS, and the Web existed.**
+
+Having said that, this guide is about Web-based APIs.
+So even though not all APIs are Web-based, this guide will focus on Web-based APIs.
