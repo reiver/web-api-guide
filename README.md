@@ -10,5 +10,7 @@ There are different ways one _could_ create a Web (i.e., HTTP or HTTPS) based AP
 
 1. [Introduction](chapters/introduction/README.md)
 2. [API Versioning](chapters/versioning/README.md)
-3. Nouns and Verbs
-4. Sessions
+3. Nouns
+4. Verbs
+5. Response Codess
+6. Sessions
