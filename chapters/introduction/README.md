@@ -85,14 +85,15 @@ So even though not all APIs are Web-based, this guide will focus on Web-based AP
 The Web is ubiquitous.
 There are people alive today that do _not_ know a world with the Web.
 
+Which is strange to because not only wasn't the Web ubiquitous (yet), but electronics weren't ubiquitous (yet).
+
 In the early days of the Web, it was called the **World Wide Web**.
 This (“world wide web”) was often shortened: **“www”**.
 Some might recognize this **“www”** initialization in website Internet domains similar to `www.example.com`.
 
-At some point in the 1990s and continuing in the 2000s, it seemed to become more and more common that normal people would have computers in their homes.
-And with this, it became more and more common that normal people would use the Internet.
-(Although the Internet from the 1990s and 2000s, which is very different, in many ways, from the Internet of today.)
+At some point in the 1990s and continuing in the 2000s, it seemed to become more and more common that normal people would have personal-computers (PCs) in their homes.
+And with this, it became more and more common that normal people would use the Internet and the Web.
+Although this is the Internet from the 1990s and 2000s, which is very different, in many ways, from the Internet of today.
 
 Before the 2000s, if someone was using an application, then it was (what today we might call) a “native-application”.
-Although back then it would be a native-application running on DOS, or on the very early version of Microsoft Windows, or Sun's NeWS (Network extensible Window System), or X Windows System (i.e., X11), NeXTSTEP, etc.
-
+Although back then it would be a native-application running on DOS, or on the very early version of Microsoft Windows, or on Sun's NeWS (Network extensible Window System), or X Windows System (i.e., X11), NeXTSTEP, macOS, etc.
