@@ -221,7 +221,7 @@ I.e., stuff like this:
 > 
 > `PUT https://api.example.com/v1/toys/{id}`
 
-## Fin
+## To Be Continued …
 
 So let's learn more about creating Web APIs.
 
