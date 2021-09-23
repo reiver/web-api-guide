@@ -141,3 +141,43 @@ Later when CSS became better supported in the web browsers of the day, and it be
 
 Some of these types of front-end developer learned a bit of basic JavaScript (after JavaScript got created) (but usually not to the level a software developer would understand it).
 And some of these types of front-end developers learned a bit of very basic back-end development (but again, usually not to the level a software developer would understand it).
+
+## Front-End (Software) Developers
+
+An early vision for the Web should be was that — normal people (i.e., non-programmers) should be able to write HTML and create Web pages.
+
+That vision started to be eroded when the DHTML-era was active, and it became common for Web-based user-interfaces (UIs) to be created with JavaScript.
+Normal people cannnot program, and thus cannot program in JavaScript.
+And if creating web-pages _in practice_ required one to be competent in JavaScript, then that put writing web-pages out of the reach of normal people.
+Which many people of the era felt was a _bad thing_.
+
+DHTML was later abandoned by many as some felt that the common things that web developers were doing with JavaScript should be added to HTML in the form of new HTML elements.
+That did happen a bit — as new HTML elements of these types were added to HTML5.
+But not all of it got in there — in HTML5.
+
+New software developers entered the industry.
+Most of them weren't aware of that early vision for the Web, or DHTML, or the goals of those who create HTML5, etc.
+Some of these new software develoepr re-discover things that older software developers already know.
+They re-discover XMLHttpRequest.
+They re-discover one can make very fancy user-interfaces (UIs) using JavaScript.
+This was the AJAX-era.
+(It was a lot like the DHTML-era except it involved a lot of software developers who weren't around for the DHTML-era.)
+
+This time though the AJAX-era didn't go away (even if the name “AJAX” stopped being used as much).
+The original vision for the Web — of normal people in practice being able to create web-pages — is mostly forgotten (except for some old software developers).
+And thus ####
+
+**These were the new front-end developers.**
+
+The original front-end developers — that had _graphic design_, _HTML_, and _CSS_ as their skill-set — were pushed out of front-end development by these new **front-end (software) developers**.
+
+(Some of these original front-end developers got completely pushed out the industry. Some of them went back to graphic-design. Some of them went into UX design. Some of them went into project management. Some of them into product. Although some did learn more programming, and become of the new style front-end (software) developers.)
+
+**One big impact that these new style front-end (software) developers had was that it became more common for Web front-ends and Web back-ends to interact with eachother differently. More specifically, although Web-based APIs were in use even in the 1990s, they seemed to become ubiquitous as a result of their front-end (sofware) developers.**
+
+## Web APIs
+
+Today we are in the era of ubiquitous Web APIs.
+
+Even if mobile phones native-applications are taking over user-interfaces (UIs) from the Web.
+The Web still exists as a popular technology to create APIs, to put an interface over the database, etc.
