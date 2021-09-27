@@ -8,3 +8,8 @@ Here is one thing I prefer programmers do when they create a Web-based API — *
 
 I'll explain _what_ I mean by “versioning”.
 And I'll trying to explain _why_ “versioning” is desirable.
+
+## The Problem
+
+Here is the problem — the problem that versioning is a solution to.
+
