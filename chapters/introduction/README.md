@@ -2,7 +2,7 @@
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 -----
 
-There are different ways one _could_ create a Web-based API — i.e., a HTTP or HTTPS based API — what I describe in this guide is, in general, how I recommend it is done.
+There are different ways one _could_ create a Web-based API — i.e., a HTTP-based or HTTPS-based API — what I describe in this guide is, in general, how I recommend it is done.
 
 ## My History
 
