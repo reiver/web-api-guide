@@ -18,9 +18,11 @@ To do this _Logo programming_ I used the computers they had at the elementary sc
 Back then it wasn't common for people to have computers at home.
 So, for many children, if they were programming, it was often using a computer at their school.
 
-So for me and many other children, the only time we would have a chance to do _Logo programming_ was using the computers at our elementary school as part of a computer class.
+So for me and many other children, the only time we would have a chance to do _Logo programming_ with _turtle graphics_ was using the computers at our elementary school as part of a computer class.
 
-My mother actually volunteered to help teach Logo programming.
+(Just an aside — many kids during at era had an **Atari 2600** home video game console that — if they got the “BASIC Programming” cartridge — could do _computer programming_ at home. But there was a special input-device that was used to program write BASIC programs. If you are used to writing programs with a keyboard you probably would NOT have enjoed using these special input-device. But anyway…)
+
+My mother actually volunteered to help teach _Logo programming_.
 Although I don't think my mother had any programming experience before that, so I assume she picked it up just before teaching it.
 So, at least back then, my mother was involved in teaching me how to program.
 My father actually did have exposure to computers, teletype machines, and some low level programming — but, for whatever reason, he didn't get involved with teaching me how to program. Or at least, I don't recall him doing so. Although he was involved in my education in a number of other ways.
