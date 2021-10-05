@@ -2,7 +2,7 @@
 by [Charles Iliya Krempeaux](http://changelog.ca/)
 -----
 
-This is a guide on how-to create a Web (i.e., HTTP or HTTPS) based API.
+This is a guide on how-to create a Web-based API (i.e., HTTP-based or HTTPS-based API).
 
 There are different ways one _could_ create a Web (i.e., HTTP or HTTPS) based API — **but** what I describe in this guide is, in general, is how I recommend it is done.
 
