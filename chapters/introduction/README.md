@@ -14,6 +14,7 @@ I'm not sure if this was a during-school-hours class, or an after-school-hours c
 (If it was an after-school-hours class then one of my parents must have signed me up for it.)
 
 To do this _Logo programming_ I used the computers they had at the elementary school I was attending at the time.
+(I think the elementary school was _Birchland Elementary_ in the city of _Port Coquitlam_ in western _Canada_.)
 Back then it wasn't common for people to have computers at home.
 So, for many children, if they were programming, it was often using a computer at their school.
 
