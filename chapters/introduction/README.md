@@ -10,7 +10,8 @@ I have been programming for what feels, to me, to be a long time.
 
 I think the first time I did any programming was back in the early 1980s — back when I was in elementary school — writing programs in the _Logo programming language_.
 These _Logo programs_ that I and others wrote would draw pictures using _turtle graphics_ — a _vector graphics_ API for the _Logo programming language_.
-I think this was an after-school-hours class that you could sign up for — and (I assume) one of my parents signed me up for it.
+I'm not sure if this was a during-school-hours class, or an after-school-hours class that you could sign up for.
+(If it was an after-school-hours class then one of my parents must have signed me up for it.)
 
 To do this _Logo programming_ I used the computers they had at the elementary school I was attending at the time.
 Back then it wasn't common for people to have computers at home.
